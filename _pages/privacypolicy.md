@@ -24,6 +24,7 @@ The app allows coaches to create athletes to track their figure skating journey.
 - Age
 - Gender
 - The nation that they skate for.*
+
 Whilst this information is there to aid the user, most is not required. The app allows users to skip sections in the attempt to provide users with piece of mind.
 **The Skating Nation is used to load the correct test structure for the skater**. 
 
