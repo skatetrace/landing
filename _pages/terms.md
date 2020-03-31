@@ -41,7 +41,7 @@ The SkateTrace Development Team makes no claim or representation regarding, and 
 
 If there is any content on the Service from you and others, we don’t review, verify or authenticate it, and it may include inaccuracies or false information. We make no representations, warranties, or guarantees relating to the quality, suitability, truth, accuracy or completeness of any content contained in the Service. You acknowledge sole responsibility for and assume all risk arising from your use of or reliance on any content.
 
-### 5. Service
+## 5. Service
 We will use reasonable endeavours to ensure that our Service accurately keeps track of your athletes, and contains no errors, and to correct any as soon as practical after being notified about them. However, we do not guarantee that the SkateTrace mobile application will be free of faults, and we do not accept liability for any such faults, errors, or omissions. In the event of such error, you should report it by filing a review on the iOS App Store.
 
 While we may use reasonable efforts to include accurate and up-to-date information on the Mobile Application, we make no warranties or representations as to its accuracy, timeliness or completeness.
