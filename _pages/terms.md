@@ -46,7 +46,7 @@ We will use reasonable endeavours to ensure that our Service accurately keeps tr
 
 While we may use reasonable efforts to include accurate and up-to-date information on the Mobile Application, we make no warranties or representations as to its accuracy, timeliness or completeness.
 
-We reserve the right to change, modify, or remove without notice any information or Services on the Skates mobile application from time to time. For the avoidance of doubt, we reserve the right to withdraw any information or Services from the Mobile Application at any time.
+We reserve the right to change, modify, or remove without notice any information or Services on the Skate Trace mobile application from time to time. For the avoidance of doubt, we reserve the right to withdraw any information or Services from the Mobile Application at any time.
 
 <br>
 
