@@ -21,6 +21,6 @@ This is the first stable version of the app. It's been a hectic couple of weeks.
 - Probably lots to be fixed, but none that I'm aware of yet.
 
 <br>
-________
-<br>
 
+ ________
+ <br>
