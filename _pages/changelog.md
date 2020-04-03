@@ -22,7 +22,7 @@ This is the first stable version of the app. It's been a hectic couple of weeks.
 
 <br>
 
-### **Version 0.9.1**
+## **Version 0.9.1**
 One day in and already finding bugs and issues. This is a small update that fixes a few issues that the app was having.
 
 #### What's New
