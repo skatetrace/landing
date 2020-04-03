@@ -20,6 +20,18 @@ This is the first stable version of the app. It's been a hectic couple of weeks.
 #### Bug Fixes
 - Probably lots to be fixed, but none that I'm aware of yet.
 
+### **Version 0.9.1**
+One day in and already finding bugs and issues. This is a small update that fixes a few issues that the app was having.
+
+#### What's New
+- You can now delete tests and/or competitions. Handy if you have entered some information incorrectly.
+- Added some information about any third party libraries that were used. Don't want to get sued.
+
+#### Bug Fixes
+- Tests were being shown in the wrong order. It now prioritises date over level.
+- When viewing tests, you can now see what test you are looking at.
+- Calculating the percentage of the test stream that had been completed was returning the wrong value.
+
 <br>
 
  ________
