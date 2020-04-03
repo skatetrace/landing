@@ -22,8 +22,8 @@ This is the first stable version of the app. It's been a hectic couple of weeks.
 
 <br>
 
-## **Version 0.9.1**
-One day in and already finding bugs and issues. This is a small update that fixes a few issues that the app was having.
+### **Version 0.9.1**
+One day in and already finding bugs and issues. This is a small update that fixes a few issues that the app was having. Most of the bugs are simple UI changes. But this update adds some much needed features.
 
 #### What's New
 - You can now delete tests and/or competitions. Handy if you have entered some information incorrectly.
