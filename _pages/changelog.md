@@ -20,6 +20,8 @@ This is the first stable version of the app. It's been a hectic couple of weeks.
 #### Bug Fixes
 - Probably lots to be fixed, but none that I'm aware of yet.
 
+<br>
+
 ### **Version 0.9.1**
 One day in and already finding bugs and issues. This is a small update that fixes a few issues that the app was having.
 
