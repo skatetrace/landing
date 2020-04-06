@@ -36,5 +36,19 @@ One day in and already finding bugs and issues. This is a small update that fixe
 
 <br>
 
+### **Version 0.9.2**
+This update is much more about behind the scenes changes, and tiny UI improvements. You probable wont see many changes. It's like playing Where's Wally/Waldo!
+
+#### What's New
+- Adds visual feedback when tapping on the Seasons/Personal Best
+- Adds visual feedback when tapping add a competition or test
+- Adds a positive feedback when a skater earns their first test
+- created a test suite for reducing the number of bugs (behind the scenes)
+
+#### Bug Fixes
+- If all tests are removed in a stream. The screen is dismissed back to the Athlete Breakdown.
+
+<br>
+
  ________
  <br>
