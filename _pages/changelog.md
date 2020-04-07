@@ -50,5 +50,15 @@ This update is much more about behind the scenes changes, and tiny UI improvemen
 
 <br>
 
+### **Version 0.9.3**
+It's like a flurry of updates coming out. I felt it was bette to keep updating with small updates that keep the app running.
+
+#### What's New
+- Quick Action: You can now long tap on a skater to quickly add a competition or test.
+
+#### Bug Fixes
+NONE!!
+
+<br>
  ________
  <br>
