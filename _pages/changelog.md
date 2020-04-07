@@ -56,8 +56,6 @@ It's like a flurry of updates coming out. I felt it was bette to keep updating w
 #### What's New
 - Quick Action: You can now long tap on a skater to quickly add a competition or test.
 
-#### Bug Fixes
-NONE!!
 
 <br>
  ________
