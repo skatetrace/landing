@@ -56,6 +56,19 @@ It's like a flurry of updates coming out. I felt it was bette to keep updating w
 #### What's New
 - Quick Action: You can now long tap on a skater to quickly add a competition or test.
 
+<br>
+
+### **Version 0.9.4**
+An update that's more focused on bug fixes and ease of use.
+
+#### What's New
+- Automatically selects the start and end of the season based on the first competition created. This can still be altered in the following screens.
+
+#### Bug Fixes
+- There was a weird visual thing happening when trying to access the contextual action on an athlete.
+- A critical bug that was stopping competitions being saved into storage.
+- A little convienience change that auto-capitalizes a pattern dance.
+
 
 <br>
  
