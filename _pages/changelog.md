@@ -71,6 +71,19 @@ An update that's more focused on bug fixes and ease of use.
 
 
 <br>
+
+### **Version 0.9.5**
+This update targets accessibility, both for use with Voice Over, and general issues with UI on different devices. There is also some "under the hood" things that allow for better debugging.
+
+#### What's New
+- Added accessibility identifiers for some of the custom elements within the app. This means that those using voice over, have a better experience.
+- Added some behind the scenes variables, that should help in future releases.
+
+#### Bug Fixes
+- Fixed the layout for different devices. The damn iPhone SE, and it's small screen. The app should now function across all iOS based devices. I am working on iPadOS, but I want to get iOS working first.
+
+
+<br>
  
  ________
 
