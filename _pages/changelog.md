@@ -90,10 +90,10 @@ More development on debugging and ensuring that the app runs as expected on diff
 
 #### What's New
 - Added some device checks before launch to ensure that the app runs smoothly.
-- Small amounts of logging occurs (on device) to help with crashes. 
+- Small amounts of logging occur (on device) to help with crashes. 
 
 #### Bug Fixes
-- Competitions can now be created with one section only. If this sections is a Free Program, as at the lower levels, these skaters may only have one program.
+- Competitions can now be created with one section only. If this section is a Free Program, as at the lower levels, these skaters may only have one program.
 
 
 <br>
