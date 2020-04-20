@@ -84,6 +84,19 @@ This update targets accessibility, both for use with Voice Over, and general iss
 
 
 <br>
+
+### **Version 0.9.6**
+More development on debugging and ensuring that the app runs as expected on different devices.
+
+#### What's New
+- Added some device checks before launch to ensure that the app runs smoothly.
+- Small amounts of logging occurs (on device) to help with crashes. 
+
+#### Bug Fixes
+- Competitions can now be created with one section only. If this sections is a Free Program, as at the lower levels, these skaters may only have one program.
+
+
+<br>
  
  ________
 
